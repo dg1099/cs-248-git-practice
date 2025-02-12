@@ -1,0 +1,5 @@
+I already know Git commands and the basic workflow from
+the coding UpSkill track at Wellesley. I think it is very 
+fun to use and I really like using Git Bash. I'm not so
+much of a fan of the VS Code extension because I feel like
+it will make me lazy and forget the commands. 
